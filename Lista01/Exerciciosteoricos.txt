@@ -1,7 +1,4 @@
-1. Funções e procedimentos são algoritmos que serão executados em um código na linguagem de programação desejada, no caso 
-do curso C e C++, funções são algoritmos que retornam um valor no fim de sua execução, já o procedimento possui a mesma 
-função de execução porém não retorna nenhum valor, no caso das linguagens estudadas, procedimentos(tipo "void") e funções
-(tipo int,float,char e etc).
+1. Funções e procedimentos são algoritmos que serão executados em um código na linguagem de programação desejada, no caso do curso C e C++, funções são algoritmos que retornam um valor no fim de sua execução, já o procedimento possui a mesma função de execução porém não retorna nenhum valor, no caso das linguagens estudadas, procedimentos(tipo "void") e funções(tipo int,float,char e etc).
 
 2. A forma correta de se usar e definir uma função ou procedimento é sempre em cima do código main(no começo do código),
 depois será "chamado" ele na main do programa, essa forma de defininção no caso de todo o código estar em um único arquivo tipo ".c" ou ".cpp".

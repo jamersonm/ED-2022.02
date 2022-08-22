@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1661177618 source:c:\users\aluno\desktop\lista03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Biblioteca01.h"
+	"Biblioteca02.h"
+
+1661175770 c:\users\aluno\desktop\lista03\biblioteca01.h
+
+1661174876 source:c:\users\aluno\desktop\lista03\biblioteca01.c
+	"Biblioteca01.h"
+
+1661178165 source:c:\users\aluno\desktop\lista03\biblioteca02.c
+	<stdio.h>
+	"Biblioteca02.h"
+
+1661175956 c:\users\aluno\desktop\lista03\biblioteca02.h
+

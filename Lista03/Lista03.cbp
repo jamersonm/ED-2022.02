@@ -39,6 +39,9 @@
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="Biblioteca02.h" />
+		<Unit filename="Biblioteca03.c">
+			<Option compilerVar="CC" />
+		</Unit>
 		<Unit filename="Biblioteca03.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />

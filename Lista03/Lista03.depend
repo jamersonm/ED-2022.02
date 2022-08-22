@@ -17,3 +17,29 @@
 
 1661175956 c:\users\aluno\desktop\lista03\biblioteca02.h
 
+1661186136 source:c:\users\aluno\downloads\ed_2022.02-main\lista03\biblioteca02.c
+	<stdio.h>
+	"Biblioteca01.h"
+	"Biblioteca02.h"
+
+1661178683 c:\users\aluno\downloads\ed_2022.02-main\lista03\biblioteca02.h
+
+1661188249 source:c:\users\aluno\downloads\ed_2022.02-main\lista03\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Biblioteca01.h"
+	"Biblioteca02.h"
+	"Biblioteca03.h"
+
+1661178683 c:\users\aluno\downloads\ed_2022.02-main\lista03\biblioteca01.h
+
+1661185243 source:c:\users\aluno\downloads\ed_2022.02-main\lista03\biblioteca01.c
+	<stdio.h>
+	"Biblioteca01.h"
+
+1661187594 source:c:\users\aluno\downloads\ed_2022.02-main\lista03\biblioteca03.c
+	"Biblioteca03.h"
+
+1661186258 c:\users\aluno\downloads\ed_2022.02-main\lista03\biblioteca03.h
+

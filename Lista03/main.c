@@ -37,9 +37,9 @@ int main()
 
     int lin, col;
 
-    printf("Informe o número de linhas da matriz: ");
+    printf("Informe o nÃºmero de linhas da matriz: ");
     scanf("%d", &lin);
-    printf("Informe o número de colunas da matriz: ");
+    printf("Informe o nÃºmero de colunas da matriz: ");
     scanf("%d", &col);
 
     int matriz[lin][col];
@@ -47,7 +47,7 @@ int main()
     preencherMatriz(lin, col, matriz);
     exibirMatriz(lin, col, matriz);
 
-    printf("\n======   VERIFICAÇÕES   ======\n");
+    printf("\n======   VERIFICAÃ‡Ã•ES   ======\n");
     //MATRIZ NULA
     printf("Matriz nula: %d \n",VerificaMatrizNula(lin, col, matriz));
     if(lin == col)
@@ -56,19 +56,19 @@ int main()
         printf("Matriz diagonal: %d \n",VerificaMatrizDiagonal(lin, matriz));
         //MATRIZ IDENTIDADE
         printf("Matriz identidade: %d \n",VerificaMatrizIdentidade(lin, matriz));
-        //MATRIZ SIMÉTRICA
-        printf("Matriz simétrica: %d \n",VerificaMatrizSimetrica(lin, matriz));
+        //MATRIZ SIMÃ‰TRICA
+        printf("Matriz simÃ©trica: %d \n",VerificaMatrizSimetrica(lin, matriz));
     }
     else
     {
-        printf("A matriz informada não é quadrada.\n");
+        printf("A matriz informada nÃ£o Ã© quadrada.\n");
     }
 
     printf("\n======   MATRIZ OPOSTA   ======\n");
     int linA, colA;
-    printf("Informe o número de linhas das matrizes: ");
+    printf("Informe o nÃºmero de linhas das matrizes: ");
     scanf("%d", &linA);
-    printf("Informe o número de colunas das matrizes: ");
+    printf("Informe o nÃºmero de colunas das matrizes: ");
     scanf("%d", &colA);
     int matrizA[linA][colA];
     int matrizB[linA][colA];
@@ -76,13 +76,13 @@ int main()
     preencherMatriz(linA, colA, matrizA);
     printf("Preencher matriz B");
     preencherMatriz(linA, colA, matrizB);
-    printf("Matriz A oposta à B: %d \n", VerificaMatrizOposta(linA, colA, matrizA, matrizB));
+    printf("\nMatriz A oposta Ã  B: %d \n", VerificaMatrizOposta(linA, colA, matrizA, matrizB));
 
     printf("\n======   MATRIZ TRANSPOSTA   ======\n");
     int linC, colC;
-    printf("Informe o número de linhas das matrizes: ");
+    printf("Informe o nÃºmero de linhas das matrizes: ");
     scanf("%d", &linC);
-    printf("Informe o número de colunas das matrizes: ");
+    printf("Informe o nÃºmero de colunas das matrizes: ");
     scanf("%d", &colC);
     int matrizC[linC][colC];
     int matrizD[colC][linC];
@@ -90,7 +90,7 @@ int main()
     preencherMatriz(linC, colC, matrizC);
     printf("Preencher matriz B");
     preencherMatriz(colC, linC, matrizD);
-    printf("Matriz A transposta à B: %d \n", VerificaMatrizTransposta(linC, colC, matrizD, matrizD));
+    printf("\nMatriz A transposta Ã  B: %d \n", VerificaMatrizTransposta(linC, colC, matrizD, matrizD));
 
     return 0;
 }

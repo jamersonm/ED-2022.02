@@ -32,9 +32,11 @@ int VerificaMatrizIdentidade(int m, int mat[m][m])
                 {
                     return 0;
                 }
+                else
+                    return 1;
             }
         }
-    return 1;
+    return 0;
 }
 
 int VerificaMatrizSimetrica(int m, int mat[m][m])
@@ -46,14 +48,6 @@ int VerificaMatrizSimetrica(int m, int mat[m][m])
     {
         for(int j = 0; j < m; j++)
             transposta[j][i] = mat[i][j];
-    }
-    for(int i = 0; i < m; i++)
-    {
-        for(int j = 0; j < m; j++)
-        {
-            printf("%d ", transposta[i][j]);
-        }
-        printf("\n");
     }
     for(int i = 0; i < m; i++)
     {

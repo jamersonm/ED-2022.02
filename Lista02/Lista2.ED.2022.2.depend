@@ -1,0 +1,56 @@
+# depslib dependency file v1.0
+1660971344 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista2.ed.2022.2\biblioteca1.c
+	<stdio.h>
+	"Biblioteca1.h"
+
+1660971344 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista2.ed.2022.2\biblioteca1.h
+
+1660973170 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista2.ed.2022.2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Biblioteca1.h"
+	"Biblioteca2.h"
+
+1660973247 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista2.ed.2022.2\biblioteca2.c
+	<stdio.h>
+	"Biblioteca1.h"
+	"Biblioteca2.h"
+
+1660971317 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista2.ed.2022.2\biblioteca2.h
+
+1660971344 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista2\biblioteca1.c
+	<stdio.h>
+	"Biblioteca1.h"
+
+1660971344 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista2\biblioteca1.h
+
+1660973170 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Biblioteca1.h"
+	"Biblioteca2.h"
+
+1660971317 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista2\biblioteca2.h
+
+1661909735 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista02\biblioteca1.c
+	<stdio.h>
+	"Biblioteca1.h"
+
+1660974189 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista02\biblioteca1.h
+
+1661909651 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista02\biblioteca2.c
+	<stdio.h>
+	"Biblioteca1.h"
+	"Biblioteca2.h"
+
+1660974268 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista02\biblioteca2.h
+
+1661908601 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista2\lista02\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Biblioteca1.h"
+	"Biblioteca2.h"
+

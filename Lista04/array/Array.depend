@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1502415248 source:c:\_meus\temp\array\main.cpp
+	<iostream>
+	"Array.h"
+
+1552413629 
+
+1502394502 c:\_meus\temp\array\array.h
+	<stdlib.h>
+
+1502375809 source:c:\_meus\temp\array\array.cpp
+	<stdlib.h>
+	"Array.h"
+
+1502415248 source:c:\_meus\edpo\array\main.cpp
+	<iostream>
+	"Array.h"
+
+1502394502 c:\_meus\edpo\array\array.h
+	<stdlib.h>
+
+1503060019 source:d:\_meus\disciplinas\edpo 2019 01\040 templates classes - array\main.cpp
+	<iostream>
+	"Array.h"
+
+1552413629 d:\_meus\disciplinas\edpo 2019 01\040 templates classes - array\array.h
+	<stdlib.h>
+
+1633630958 source:/home/jamal/Documentos/ED/Lista 4/040 Templates Classes - Array/main.cpp
+	<iostream>
+	"Array.h"
+
+1662567367 /home/jamal/Documentos/ED/Lista 4/040 Templates Classes - Array/Array.h
+	<stdlib.h>
+
+1633630958 source:/home/jamal/Documentos/ED/Lista/040 Templates Classes - Array/main.cpp
+	<iostream>
+	"Array.h"
+
+1662567367 /home/jamal/Documentos/ED/Lista/040 Templates Classes - Array/Array.h
+	<stdlib.h>
+
+1662574006 source:/home/jamal/Documentos/ED/array/main.cpp
+	<iostream>
+	"Array.h"
+
+1662576307 /home/jamal/Documentos/ED/array/Array.h
+	<stdlib.h>
+

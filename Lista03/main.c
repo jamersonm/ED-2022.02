@@ -61,7 +61,7 @@ int main()
     }
     else
     {
-        printf("A matriz informada não é quadrada.\n");
+        printf("A matriz informada não é quadrada.\n Não é possível verificar diagonal, identidade e simetria.");
     }
 
     printf("\n======   MATRIZ OPOSTA   ======\n");
@@ -72,9 +72,9 @@ int main()
     scanf("%d", &colA);
     int matrizA[linA][colA];
     int matrizB[linA][colA];
-    printf("Preencher matriz A");
+    printf("\nPreencher matriz A");
     preencherMatriz(linA, colA, matrizA);
-    printf("Preencher matriz B");
+    printf("\nPreencher matriz B");
     preencherMatriz(linA, colA, matrizB);
     printf("\nMatriz A oposta à B: %d \n", VerificaMatrizOposta(linA, colA, matrizA, matrizB));
 
@@ -86,11 +86,11 @@ int main()
     scanf("%d", &colC);
     int matrizC[linC][colC];
     int matrizD[colC][linC];
-    printf("Preencher matriz A");
+    printf("\nPreencher matriz C");
     preencherMatriz(linC, colC, matrizC);
-    printf("Preencher matriz B");
+    printf("\nPreencher matriz D");
     preencherMatriz(colC, linC, matrizD);
-    printf("\nMatriz A transposta à B: %d \n", VerificaMatrizTransposta(linC, colC, matrizD, matrizD));
+    printf("\nMatriz A transposta à B: %d \n", VerificaMatrizTransposta(linC, colC, matrizC, matrizD));
 
     return 0;
 }

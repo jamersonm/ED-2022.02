@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1553641665 source:d:\_meus\disciplinas\edpo 2019 01\060 stl_array_rotinas\main.cpp
+	<iostream>
+	<array>
+
+1568983331 source:d:\_meus\disciplinas\edpo 2019 02\060 stl_array\main.cpp
+	"STL_Array_Teste.h"
+
+1568984878 d:\_meus\disciplinas\edpo 2019 02\060 stl_array\stl_array_teste.h
+	<iostream>
+	<array>
+	<algorithm>
+	<iterator>
+	<functional>
+	<numeric>
+	"STL_Array.h"
+
+1568984157 d:\_meus\disciplinas\edpo 2019 02\060 stl_array\stl_array.h
+	<iostream>
+	<array>
+	<algorithm>
+	<iterator>
+	<functional>
+	<numeric>
+

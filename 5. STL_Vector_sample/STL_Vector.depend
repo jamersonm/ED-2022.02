@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1556288306 source:d:\_meus\disciplinas\edpo 2019 01\110 stl_vector\main.cpp
+	<iostream>
+	"Vector_Teste_Int.h"
+	"Vector_Teste_Classe.h"
+
+1556286584 d:\_meus\disciplinas\edpo 2019 01\110 stl_vector\vector_teste.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1556288368 d:\_meus\disciplinas\edpo 2019 01\110 stl_vector\vector_teste_int.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1556294730 d:\_meus\disciplinas\edpo 2019 01\110 stl_vector\vector_teste_classe.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1556288306 source:c:\users\aluno\downloads\110 stl_vector\main.cpp
+	<iostream>
+	"Vector_Teste_Int.h"
+	"Vector_Teste_Classe.h"
+
+1556288368 c:\users\aluno\downloads\110 stl_vector\vector_teste_int.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+
+1556294730 c:\users\aluno\downloads\110 stl_vector\vector_teste_classe.h
+	<iostream>
+	<vector>
+	<algorithm>
+	<iterator>
+

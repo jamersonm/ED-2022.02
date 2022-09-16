@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663330114 source:c:\users\aluno\downloads\4. templates\templates\main.cpp
+	<iostream>
+	"Array.h"
+	"Matrix2D.h"
+
+1663330164 c:\users\aluno\downloads\4. templates\templates\array.h
+	<stdlib.h>
+
+1663330184 c:\users\aluno\downloads\4. templates\templates\matrix2d.h
+	<stdlib.h>
+

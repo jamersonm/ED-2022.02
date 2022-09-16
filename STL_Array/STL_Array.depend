@@ -1,9 +1,0 @@
-# depslib dependency file v1.0
-1663269919 source:c:\users\aluno\documents\stl_array\main.cpp
-	<iostream>
-	"STL_Array.h"
-
-1663269985 c:\users\aluno\documents\stl_array\stl_array.h
-	<array>
-	<iostream>
-

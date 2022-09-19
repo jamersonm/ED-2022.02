@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1663592500 source:c:\users\aluno\downloads\matriz_array\main.cpp
+	<iostream>
+	<array>
+	"Matriz_Array.h"
+
+1663602372 c:\users\aluno\downloads\matriz_array\matriz_array.h
+	<iostream>
+	"Matriz_Array.h"
+

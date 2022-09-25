@@ -6,9 +6,7 @@ Material produzido na disciplina de Estrutura de Dados
 determinada tarefa ou cálculo, de forma que pode ser
 entendido (e escrito) de forma independente do problema
 maior que ajuda a resolver.
-```
-ESTRUTURA  
-   
+```   
 <tipo de retorno> <nome> ( <parâmetros> )  
   <comandos>  
   ...
@@ -20,8 +18,6 @@ ESTRUTURA
 - Formada por uma sequência de variáveis do mesmo tipo;
 - Seu conteúdo é alocado sequencialmente na memória.
 ```
-DECLARAÇÃO
-
 <tipo> <nome>[<tamanho do vetor>]
 ```
 NOTA: para implementação, o índicie inicia em zero.  
@@ -29,8 +25,6 @@ NOTA: para implementação, o índicie inicia em zero.
 ### 3. Matrizes
 - Semelhantemente a vetores, porém multidimensional.
 ```
-DECLARAÇÃO
-
 <tipo> <nome>[ <tamanho da dimensão> ][ <tamanho da dimensão ]
 ```
 NOTA: posse declarar uma matriz de n dimensões.  

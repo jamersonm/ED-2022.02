@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1665178281 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\7. stl_strings_and_strings_c\7. stl_strings\main.cpp
+	<iostream>
+	<string>
+	"STL_Strings.h"
+
+1665178694 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\7. stl_strings_and_strings_c\7. stl_strings\stl_strings.h
+	<iostream>
+	<string>
+	<algorithm>
+

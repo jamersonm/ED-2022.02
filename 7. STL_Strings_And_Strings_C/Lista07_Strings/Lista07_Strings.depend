@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1665172136 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista07\lista07_strings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"string.h"
+
+1665172124 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista07\lista07_strings\string.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

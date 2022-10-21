@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1666377301 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista08\lista08_listas\main.cpp
+	<iostream>
+	"Produto.h"
+	"Produtos.h"
+
+1666374467 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista08\lista08_listas\produto.cpp
+	<iostream>
+	<string>
+	"Produto.h"
+
+1666375975 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista08\lista08_listas\produto.h
+	<iostream>
+	<string>
+
+1666377312 c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista08\lista08_listas\produtos.h
+	<list>
+	<string>
+	<iterator>
+	"Produto.h"
+
+1666377320 source:c:\users\user\documents\utfpr\engenharia eletrônica\estruturadedados\lista08\lista08_listas\produtos.cpp
+	<iostream>
+	<iterator>
+	<string>
+	"Produtos.h"
+	"Produto.h"
+

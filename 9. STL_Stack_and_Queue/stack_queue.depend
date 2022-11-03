@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1667479699 source:c:\users\aluno\downloads\stack_queue\main.cpp
+	<iostream>
+	"Roteiro.h"
+
+1667482234 c:\users\aluno\downloads\stack_queue\roteiro.h
+	<stack>
+	<queue>
+	<string>
+
+1667481509 source:c:\users\aluno\downloads\stack_queue\roteiro.cpp
+	<iostream>
+	<ios>
+	<limits>
+	<queue>
+	"Roteiro.h"
+

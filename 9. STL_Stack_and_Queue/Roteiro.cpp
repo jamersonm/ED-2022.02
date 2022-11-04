@@ -17,7 +17,7 @@ Roteiro::Roteiro(){
 }
 
 Roteiro::~Roteiro(){
-    relatorio_viagem();                                     // print relatório
+    relatorio_viagem();                                     // print relatÃ³rio
 }
 
 void Roteiro::roteiro_menu(){
@@ -32,7 +32,7 @@ void Roteiro::roteiro_menu(){
             cout << endl;
             cin.ignore(numeric_limits<streamsize>::max(),'\n');          // limpando buffer
             if(resp <= 0 || resp > 4)
-                cout << "Opção inválida" << endl;
+                cout << "OpÃ§Ã£o invÃ¡lida" << endl;
         } while(resp <= 0 || resp > 4);
         switch(resp)
         {
@@ -46,7 +46,6 @@ void Roteiro::roteiro_menu(){
             imprimir_roteiro();
             break;
         default:
-            Roteiro::~Roteiro();
             break;
         }
     } while(resp != 4);
@@ -54,7 +53,7 @@ void Roteiro::roteiro_menu(){
 
 void Roteiro::adicionar_destino(){
     string leitura;
-    cout << "Próximo destino: ";
+    cout << "PrÃ³ximo destino: ";
     getline(cin, leitura);          // proximo destino
     roteiro.push(leitura);          // adicionado ao roteiro
     relatorio.push(leitura);        // adicionado ao relatorio
@@ -76,7 +75,7 @@ void Roteiro::remover_destino(){
     }
     if(roteiro.empty())
     {
-        cout << "Rota concluída" << endl;
+        cout << "Rota concluÃ­da" << endl;
     }
 }
 

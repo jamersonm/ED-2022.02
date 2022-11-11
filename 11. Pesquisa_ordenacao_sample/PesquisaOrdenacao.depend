@@ -1,0 +1,142 @@
+# depslib dependency file v1.0
+1509574004 source:c:\_meus\disciplinas\edpo 2017 02\pesquisaordenacao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Pesquisa.h"
+	"Ordenacao.h"
+
+1509101588 c:\_meus\disciplinas\edpo 2017 02\pesquisaordenacao\pesquisa.h
+
+1509131226 c:\_meus\disciplinas\edpo 2017 02\pesquisaordenacao\ordenacao.h
+
+1509577098 source:c:\_meus\disciplinas\edpo 2017 02\pesquisaordenacao\ordenacao.cpp
+	<iostream>
+	"Ordenacao.h"
+
+1510318041 source:c:\_meus\disciplinas\edpo 2017 02\pesquisaordenacao\pesquisa.cpp
+	"Pesquisa.h"
+
+1510318854 source:c:\_meus\disciplinas\edpo 2017 02\stl_pesquisaordenacao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Pesquisa.h"
+	"Ordenacao.h"
+
+1509101588 c:\_meus\disciplinas\edpo 2017 02\stl_pesquisaordenacao\pesquisa.h
+
+1509131226 c:\_meus\disciplinas\edpo 2017 02\stl_pesquisaordenacao\ordenacao.h
+
+1509577098 source:c:\_meus\disciplinas\edpo 2017 02\stl_pesquisaordenacao\ordenacao.cpp
+	<iostream>
+	"Ordenacao.h"
+
+1510318041 source:c:\_meus\disciplinas\edpo 2017 02\stl_pesquisaordenacao\pesquisa.cpp
+	"Pesquisa.h"
+
+1510948004 source:e:\__c_hd\_meus\disciplinas\edpo 2017 02\stl_pesquisaordenacao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	"Pesquisa.h"
+	"Ordenacao.h"
+
+1510945448 e:\__c_hd\_meus\disciplinas\edpo 2017 02\stl_pesquisaordenacao\pesquisa.h
+	<array>
+
+1510944205 e:\__c_hd\_meus\disciplinas\edpo 2017 02\stl_pesquisaordenacao\ordenacao.h
+	<array>
+	<algorithm>
+
+1511350198 source:c:\stl_pesquisaordenacao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<array>
+	<list>
+	"Ordenacao.h"
+	"Pesquisa.h"
+
+1511349706 c:\stl_pesquisaordenacao\pesquisa.h
+	<array>
+	<list>
+
+1511297530 c:\stl_pesquisaordenacao\ordenacao.h
+	<array>
+	<list>
+
+1511457576 source:c:\_meus\stl_pesquisaordenacao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<array>
+	<list>
+	"Ordenacao.h"
+	"Pesquisa.h"
+
+1511456189 c:\_meus\stl_pesquisaordenacao\ordenacao.h
+	<array>
+	<list>
+
+1511367102 c:\_meus\stl_pesquisaordenacao\pesquisa.h
+	<array>
+	<list>
+
+1560789291 source:d:\_meus\disciplinas\edpo 2019 01\180 stl_pesquisaordenacao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<array>
+	<list>
+	"Ordenacao.h"
+	"Pesquisa.h"
+	<algorithm>
+
+1511456189 d:\_meus\disciplinas\edpo 2019 01\180 stl_pesquisaordenacao\ordenacao.h
+	<array>
+	<list>
+
+1511367102 d:\_meus\disciplinas\edpo 2019 01\180 stl_pesquisaordenacao\pesquisa.h
+	<array>
+	<list>
+
+1560814136 source:d:\_meus\disciplinas\edpo 2019 01\190 stl_pesquisaordenacao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<array>
+	<list>
+	"Ordenacao.h"
+	"Pesquisa.h"
+	"Pessoa.h"
+	<algorithm>
+
+1560814378 d:\_meus\disciplinas\edpo 2019 01\190 stl_pesquisaordenacao\ordenacao.h
+	<array>
+	<list>
+
+1560813315 d:\_meus\disciplinas\edpo 2019 01\190 stl_pesquisaordenacao\pesquisa.h
+	<array>
+	<list>
+
+1560810035 d:\_meus\disciplinas\edpo 2019 01\190 stl_pesquisaordenacao\pessoa.h
+
+1574446001 source:d:\_meus\disciplinas\edpo 2019 02\190 stl_pesquisaordenacao\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+	<array>
+	<list>
+	"Ordenacao.h"
+	"Pesquisa.h"
+	<algorithm>
+
+1560814378 d:\_meus\disciplinas\edpo 2019 02\190 stl_pesquisaordenacao\ordenacao.h
+	<array>
+	<list>
+
+1574427158 d:\_meus\disciplinas\edpo 2019 02\190 stl_pesquisaordenacao\pesquisa.h
+	<array>
+	<list>
+

@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1669427548 source:c:\users\jamerson\documents\graduação\estrutura de dados\11.pesquisa_ordenacao_sample\main.cpp
+	<iostream>
+	<array>
+	<algorithm>
+	<list>
+	<time.h>
+	"Ordenacao.h"
+	"Pesquisa.h"
+
+1669423965 c:\users\jamerson\documents\graduação\estrutura de dados\11.pesquisa_ordenacao_sample\exercioum.h
+	<cstdlib>
+	<ctime>
+	<array>
+
+1669427376 c:\users\jamerson\documents\graduação\estrutura de dados\11.pesquisa_ordenacao_sample\ordenacao.h
+	<cstdlib>
+	<ctime>
+	<array>
+
+1669426809 c:\users\jamerson\documents\graduação\estrutura de dados\11.pesquisa_ordenacao_sample\pesquisa.h
+
